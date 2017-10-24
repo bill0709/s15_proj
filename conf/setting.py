@@ -7,4 +7,7 @@ DATABASE = {
         PORT:3396
         }
 
-STATIC_DIRS = []
+STATIC_DIRS = 
+[]
+
+weihaitao
